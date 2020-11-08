@@ -1,0 +1,1 @@
+g++ -o netTest netTest.cpp && ./netTest
